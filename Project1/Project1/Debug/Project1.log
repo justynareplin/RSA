@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\olcconsolegameengine.h(822): warning C4474: „swprintf_s”: przekazano za dużo argumentów dla ciągu formatowania
+  c:\users\justyna\desktop\projekt c++\final project\project1\project1\olcconsolegameengine.h(822): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\źródło.cpp(60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\źródło.cpp(82): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\źródło.cpp(94): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\źródło.cpp(95): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\źródło.cpp(204): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\justyna\desktop\projekt c++\final project\project1\project1\źródło.cpp(208): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\justyna\Desktop\PROJEKT C++\Final project\Project1\Debug\Project1.exe
